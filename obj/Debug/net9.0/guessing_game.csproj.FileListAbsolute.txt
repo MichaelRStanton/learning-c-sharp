@@ -1,0 +1,14 @@
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\bin\Debug\net9.0\guessing_game.exe
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\bin\Debug\net9.0\guessing_game.deps.json
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\bin\Debug\net9.0\guessing_game.runtimeconfig.json
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\bin\Debug\net9.0\guessing_game.dll
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\bin\Debug\net9.0\guessing_game.pdb
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\obj\Debug\net9.0\guessing_game.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\obj\Debug\net9.0\guessing_game.AssemblyInfoInputs.cache
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\obj\Debug\net9.0\guessing_game.AssemblyInfo.cs
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\obj\Debug\net9.0\guessing_game.csproj.CoreCompileInputs.cache
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\obj\Debug\net9.0\guessing_game.dll
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\obj\Debug\net9.0\refint\guessing_game.dll
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\obj\Debug\net9.0\guessing_game.pdb
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\obj\Debug\net9.0\guessing_game.genruntimeconfig.cache
+c:\Users\Michael\Desktop\learning\c-sharp\guessing_game\obj\Debug\net9.0\ref\guessing_game.dll
