@@ -3,7 +3,7 @@ int age = 0;
 double treasureValue = 0.0;
 bool hasCompanion = false;
 
-// Story begins
+// Story begins Note - AI Generated Story.
 Console.WriteLine("Welcome to the adventure story! Let's create our tale!");
 
 Console.WriteLine("Enter the hero's name:");
